@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Jrelt5k37sXyE2fw9Hg9oZ5wOhI0YQxMeMDnTsf0+6yCa2zHL8HHT046HOK81p7kdp627NJsE2Cjnh6F8Vb/A==",
+  "success": true,
+  "projectFilePath": "D:\\Mphasis\\Phase-4\\Day-6\\JenkinsDemoAPI\\JenkinsDemoAPI\\JenkinsDemoAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\salma\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\salma\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\salma\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\salma\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\salma\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\salma\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
